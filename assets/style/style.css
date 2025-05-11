@@ -36,7 +36,7 @@ p {
 /* Header */
 
 header {
-  margin-top: 51px;
+  margin-top: 31px;
 }
 
 .header-content {
@@ -94,7 +94,7 @@ nav a.checked {
 /* MAIN */
 
 main {
-  margin-top: 166px;
+  margin-top: 170px;
 }
 
 .main-content {
@@ -109,7 +109,6 @@ main {
   padding: 10px 34px;
   border-radius: 126px;
   display: inline-block;
-
   margin-bottom: 23px;
 }
 
@@ -159,8 +158,8 @@ main {
 
 .welcome {
   background-color: #ecfaf1;
-  padding-top: 147px;
-  padding-bottom: 132px;
+  padding-top: 30px;
+  padding-bottom: 30px;
 }
 
 .welcom-inner {
@@ -207,8 +206,8 @@ main {
 /* MENU */
 
 .menu {
-  padding-top: 164px;
-  padding-bottom: 201px;
+  padding-top: 64px;
+  padding-bottom: 80px;
 }
 
 .menu h2 {
@@ -408,7 +407,7 @@ main {
 /* RESERVE */
 
 .reserve {
-  padding-top: 113px;
+  padding-top: 73px;
   padding-bottom: 39px;
   background-color: #fffaf5;
 }
@@ -466,8 +465,8 @@ main {
 /* Chefs */
 
 .chefs {
-  padding-top: 175px;
-  padding-bottom: 271px;
+  padding-top: 50px;
+  padding-bottom: 71px;
   text-align: center;
 }
 
@@ -522,7 +521,7 @@ main {
 /* CLIENTS */
 .clients {
   background-color: #f9f9f9;
-  padding: 71px 0px 99px 0px;
+  padding: 71px 0px 39px 0px;
 }
 
 .clients-inner {
@@ -592,7 +591,7 @@ main {
 /* WORK-OPEN */
 
 .work-open {
-  margin-top: 238px;
+  margin-top: 108px;
 }
 
 .open-from {
@@ -614,7 +613,7 @@ main {
 }
 
 .work-about h3 {
-  margin: 68px 390px 125px 390px;
+  margin: 68px 390px 5px 390px;
   font-size: 40px;
   color: #fff;
 }
